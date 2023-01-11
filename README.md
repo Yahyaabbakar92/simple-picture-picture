@@ -2,7 +2,7 @@
 
 Personal project
 
-Live: ()
+Live: (https://yahyaabbakar92.github.io/simple-picture-picture/)
 
 Date started: 11 January 2023
 
@@ -13,6 +13,9 @@ Date completed: 11 January 2023
 To make button display a video/media in picture in picture mode
 
 ## Screenshot
+
+![Alt text](Screenshot%202023-01-11%20at%2018.54.23.png)
+![Alt text](Screenshot%202023-01-11%20at%2018.55.31.png)
 
 ## Things I learned
 
@@ -30,5 +33,7 @@ To make button display a video/media in picture in picture mode
 - leavePictureInPicture is an event that is triggered once picture-in-picture is inactive
 
 ## Thought process
+
+I wasn't able to implement my own version and struggled quite a bit
 
 ## Need to refactor
